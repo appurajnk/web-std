@@ -1,0 +1,36 @@
+# Git files
+.git
+.gitignore
+
+# Claude Code settings
+.claude
+
+# PowerShell scripts (not needed in container)
+*.ps1
+
+# Build artifacts
+node_modules
+npm-debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Documentation
+*.md
+LICENSE
+
+# Windows reserved names
+nul
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+compression-summary.txt
